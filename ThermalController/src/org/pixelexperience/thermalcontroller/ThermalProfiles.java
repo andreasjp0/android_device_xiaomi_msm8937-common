@@ -50,6 +50,7 @@ public class ThermalProfiles {
             case "com.android.chrome":
                 return MODE_STUDIO;
             case "com.tencent.ig":
+            case "com.mobile.legends":
             case "com.dts.freefireth":
             case "com.epicgames.fortnite":
             case "com.gameloft.android.ANMP.GloftA8HM":
