@@ -52,6 +52,7 @@ public class ThermalProfiles {
             case "com.tencent.ig":
             case "com.mobile.legends":
             case "com.dts.freefireth":
+            case "com.garena.game.codm":
             case "com.epicgames.fortnite":
             case "com.gameloft.android.ANMP.GloftA8HM":
             case "com.gameloft.android.ANMP.GloftA9HM":
